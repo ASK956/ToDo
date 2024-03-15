@@ -6,7 +6,7 @@ p {
   margin: 0;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
@@ -25,7 +25,7 @@ a{
   flex-direction: row;
   align-items: center;
   box-sizing: border-box;
-  padding-left: 50%;
+  padding-left: 75%;
 }
 .add-new {
   display: flex;
@@ -136,13 +136,14 @@ a{
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  width: 1200px;
+  width: 1319px;
   height: 724px;
   border: 1px solid rgba(234, 238, 244, 1);
   border-radius: 12px;
   box-sizing: border-box;
   background-color: rgba(255, 255, 255, 1);
-  padding-left: 230px;
+  padding-left: 397px;
+  margin-top: 28px;
 }
 .title {
   display: flex;
@@ -206,7 +207,7 @@ a{
   border: 1px solid rgba(234, 238, 244, 1);
   border-radius: 8px;
   box-sizing: border-box;
-  background-color: rgba(246, 250, 253, 1);
+  background-color: #e5eff6;
 }
 .placeholder {
   color: rgba(126, 146, 162, 1);
@@ -244,7 +245,7 @@ a{
   border: 1px solid rgba(234, 238, 244, 1);
   border-radius: 8px;
   box-sizing: border-box;
-  background-color: rgba(246, 250, 253, 1);
+  background-color: #e5eff6;
 }
 .placeholder-1 {
   color: rgba(126, 146, 162, 1);
@@ -282,7 +283,7 @@ a{
   border: 1px solid rgba(234, 238, 244, 1);
   border-radius: 8px;
   box-sizing: border-box;
-  background-color: rgba(246, 250, 253, 1);
+  background-color: #e5eff6;
 }
 .placeholder-2 {
   color: rgba(126, 146, 162, 1);
@@ -320,7 +321,7 @@ a{
   border: 1px solid rgba(234, 238, 244, 1);
   border-radius: 8px;
   box-sizing: border-box;
-  background-color: rgba(246, 250, 253, 1);
+  background-color: #e5eff6;
 }
 .placeholder-3 {
   color: rgba(126, 146, 162, 1);
@@ -358,7 +359,7 @@ a{
   border: 1px solid rgba(234, 238, 244, 1);
   border-radius: 8px;
   box-sizing: border-box;
-  background-color: rgba(246, 250, 253, 1);
+  background-color: #e5eff6;
 }
 .placeholder-4 {
   color: rgba(126, 146, 162, 1);

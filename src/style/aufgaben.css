@@ -5,7 +5,7 @@ p {
   margin: 0;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
@@ -15,7 +15,6 @@ a{
   justify-content: flex-start;
   align-items: flex-start;
   width: 1400px;
-  height: 832px;
   box-sizing: border-box;
   background-color: rgba(255, 255, 255, 1);
 }
@@ -24,7 +23,7 @@ a{
   flex-direction: row;
   align-items: center;
   box-sizing: border-box;
-  padding-left: 50%;
+  padding-left: 75%;
 }
 .add-new {
   display: flex;
@@ -144,7 +143,7 @@ a{
   font-weight: 400;
   line-height: 19px;
   width: 75%;
-  margin-left: 200px;
+  margin-left: 364px;
   margin-top: 75px;
 }
 @media (max-width: 991px) {
@@ -562,7 +561,7 @@ a{
   text-transform: uppercase;
   letter-spacing: 1.25px;
   line-height: 114%;
-  margin: 39px 0 0 350px;
+  margin: 76px 0 0 575px;
 }
 @media (max-width: 991px) {
   .aufgabe-projekt {
@@ -597,7 +596,8 @@ table {
   width: 100%;
 }
 
-td, th {
+td,
+th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
@@ -605,4 +605,8 @@ td, th {
 
 tr:nth-child(even) {
   background-color: #dddddd;
+}
+.th-bearbeiten {
+  width: 10px;
+  height: 10px;
 }
